@@ -12,3 +12,8 @@ for (const [index, element] of object.entries()){
   console.log(index, element)
 }
 ```
+
+## Task list
+- [X] Review the capacity
+- [X] Assign the new projects
+- [ ] Close the delivery projects
